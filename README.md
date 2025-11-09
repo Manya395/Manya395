@@ -5,7 +5,7 @@
 
 ### About Me:
 - An Engineering Student passionate about creating things.
-- Fun fact: I love learning new tech and making creative projects 💡
+- I love learning new tech and making creative projects.
 
 ---
 
