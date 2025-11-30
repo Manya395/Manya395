@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manya R I</h1>
+<h1 align="center">Hi, I'm Manya R I</h1>
 <h3 align="center">AI and Data Science Student</h3>
 
 ---
