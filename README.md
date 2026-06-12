@@ -65,8 +65,6 @@ Passionate about Software Development, AI/ML, Problem Solving, and Building Real
 
 ## 📈 GitHub Stats
 
-![Manya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manya395&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manya395&layout=compact)
 
 ---
