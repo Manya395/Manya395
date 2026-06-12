@@ -73,6 +73,6 @@ Passionate about Software Development, AI/ML, Problem Solving, and Building Real
 
 [LinkedIn](YOUR_LINKEDIN_URL)
 
-📧 YOUR_EMAIL
+📧 manyagowda395@gmail.com
 
 ---
