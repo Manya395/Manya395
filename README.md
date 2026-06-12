@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manya R I</h1>
+<h1 align="center">Hi, I'm Manya R I</h1>
 <h3 align="center">AI & Data Science Engineering Student</h3>
 
 <p align="center">
@@ -17,8 +17,7 @@ Passionate about Software Development, AI/ML, Problem Solving, and Building Real
   - Python
   - Backend Development
   - Machine Learning
-- 🎯 Goal: Secure a Software Development Internship and become a skilled Full Stack Engineer
-- ⚡ Love building projects and exploring new technologies
+- ⚡ Love exploring new things...
 
 ---
 
