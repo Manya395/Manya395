@@ -71,7 +71,7 @@ Passionate about Software Development, AI/ML, Problem Solving, and Building Real
 
 ## 🌐 Connect With Me
 
-[LinkedIn](linkedin.com/in/manya395)
+[LinkedIn](https://www.linkedin.com/in/manya395?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 📧 manyagowda395@gmail.com
 
